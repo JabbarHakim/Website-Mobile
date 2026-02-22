@@ -9,7 +9,9 @@ void main() {
         backgroundColor: const Color.fromARGB(255, 205, 160, 24),
         ),
         body: Center(
-          child: Image(image: NetworkImage("https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1273516682.jpg?c=16x9&q=h_833,w_1480,c_fill"),),
+          child: Image(
+            image: NetworkImage("hhttps://i.pinimg.com/736x/9b/9d/18/9b9d18dec97dc27ac5a5169d4dc0f922.jpg"),
+            ),
         ),
       ),
   ));
