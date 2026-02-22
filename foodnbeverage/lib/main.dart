@@ -10,7 +10,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage("https://i.pinimg.com/736x/9b/9d/18/9b9d18dec97dc27ac5a5169d4dc0f922.jpg"),
+            image: AssetImage("images/eat2.jpg"),
             ),
         ),
       ),
